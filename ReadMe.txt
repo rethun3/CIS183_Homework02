@@ -1,0 +1,2 @@
+This program displays RGB when you move the sliders. You can save the color and look at the color whenever you want by clicking on it.
+Shows RGB values, hex representaion of the RGB and any saved colors.
